@@ -12,8 +12,5 @@ print("Some code-1")
 print("Some code-2")
 print("Some code-3")
 print("Some code-4")
-<<<<<<< HEAD
-=======
 print("Some code-5")
 print("Some code-6")
->>>>>>> fet-2
